@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/Analytics/bin/python" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/Analytics/bin/python" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
