@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="rabbit" type="Dockerfile" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="clients" type="PLAIN_TEXT" />
       <mapping ext="mongo" type="PLAIN_TEXT" />
